@@ -1,0 +1,13 @@
+.player-wrapper{
+    position: relative;
+    padding-top: 50%;
+}
+
+.videoRP {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+
